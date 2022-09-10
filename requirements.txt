@@ -255,7 +255,7 @@ pyngrok==4.1.10
 pyOpenSSL==19.1.0
 pyotp==2.3.0
 pyparsing==2.4.7
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pyperclip==1.8.0
 pypng==0.0.20
 pyproj==2.6.1
