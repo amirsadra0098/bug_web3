@@ -367,7 +367,7 @@ tzlocal==2.1b1
 u-msgpack-python==2.3.0
 unicodecsv==0.14.1
 Unidecode==1.1.1
-urllib3==1.25.10
+urllib3==1.26.5
 urwid==2.1.0
 validate-email==1.3
 values==0.0.0
