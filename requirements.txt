@@ -3,7 +3,7 @@ adblockparser==0.7
 AdvancedHTTPServer==2.2.0
 aiocmd==0.1.2
 aiodns==2.0.0
-aiohttp==3.6.2
+aiohttp==3.7.4
 aioredis==1.3.1
 aiowinreg==0.0.3
 ajpy==0.0.4
