@@ -23,7 +23,7 @@ async-timeout==3.0.1
 asyncio==3.4.3
 asysocks==0.0.2
 attrs==19.3.0
-autobahn==17.10.1
+autobahn==20.12.3
 Automat==0.8.0
 Babel==2.9.1
 backcall==0.2.0
