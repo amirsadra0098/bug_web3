@@ -185,7 +185,7 @@ numexpr==2.7.1
 numpy==1.18.4
 oauthlib==3.1.0
 odfpy==0.9.6
-openpyxl==2.2.2
+openpyxl==2.4.2
 ordered-set==4.0.2
 osrframework==0.20.1
 packaging==20.3
