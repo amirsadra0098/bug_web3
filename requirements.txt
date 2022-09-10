@@ -136,7 +136,7 @@ isodate==0.6.0
 itsdangerous==1.1.0
 jdcal==1.0
 jedi==0.17.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 jsonschema==3.2.0
 jupyter-core==4.6.3
 kaitaistruct==0.8
