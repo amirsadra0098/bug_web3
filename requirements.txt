@@ -190,7 +190,7 @@ ordered-set==4.0.2
 osrframework==0.20.1
 packaging==20.3
 pandas==0.25.3
-paramiko==2.6.0
+paramiko==2.10.1
 parsedatetime==2.4
 parso==0.7.0
 passlib==1.7.2
