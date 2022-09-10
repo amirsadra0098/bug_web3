@@ -33,7 +33,7 @@ beautifulsoup4==4.9.1
 binwalk==2.2.0
 blinker==1.4
 boltons==19.1.0
-bottle==0.12.15
+bottle==0.12.20
 Brotli==1.0.7
 bs4==0.0.1
 bullet==2.2.0
