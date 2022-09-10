@@ -205,7 +205,7 @@ pgrep==0.0.0
 pgspecial==1.9.0
 phonenumbers==8.12.1
 pickleshare==0.7.5
-Pillow==6.2.1
+Pillow==9.0.1
 plaster==1.0
 plaster-pastedeploy==0.5
 plotly==4.7.1
