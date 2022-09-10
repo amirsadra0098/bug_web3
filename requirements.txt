@@ -124,7 +124,7 @@ icalendar==4.0.3
 icmplib==1.2.1
 idna==2.10
 imagesize==1.2.0
-impacket==0.9.21
+impacket==0.9.23
 importlib-metadata==1.6.0
 incremental==16.10.1
 intervaltree==3.0.2
