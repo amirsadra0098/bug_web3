@@ -182,7 +182,7 @@ nmap==0.0.1
 nplusone==1.0.0
 ntlm-auth==1.4.0
 numexpr==2.7.1
-numpy==1.18.4
+numpy==1.22.0
 oauthlib==3.1.0
 odfpy==0.9.6
 openpyxl==2.2.2
