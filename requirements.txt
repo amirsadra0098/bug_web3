@@ -375,7 +375,7 @@ venusian==3.0.0
 verboselogs==1.7
 virtualenv==20.0.31
 wafw00f==2.1.0
-waitress==1.4.1
+waitress==2.1.2
 wapiti3==3.0.3
 wcwidth==0.1.9
 webargs==6.1.0
