@@ -40,7 +40,7 @@ bullet==2.2.0
 capstone==3.0.5
 catfish==1.4.13
 cbor==1.0.0
-certifi==2020.6.20
+certifi==2022.12.7
 cfscrape==2.1.1
 Chameleon==3.6.2
 chardet==3.0.4
