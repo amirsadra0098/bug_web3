@@ -160,7 +160,7 @@ marshmallow==3.6.1
 marshmallow-sqlalchemy==0.19.0
 matplotlib==3.2.2
 maxminddb==1.4.1
-mechanize==0.4.5
+mechanize==0.4.6
 mimerender==0.6.0
 minidump==0.0.12
 minikerberos==0.2.0
